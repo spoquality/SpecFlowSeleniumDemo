@@ -1,0 +1,10 @@
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\Selenium.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\Selenium.pdb
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.xml
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.pdb
