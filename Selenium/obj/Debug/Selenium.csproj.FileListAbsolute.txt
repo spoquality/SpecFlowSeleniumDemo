@@ -8,3 +8,13 @@ C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.csprojRe
 C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
 C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.dll
 C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.pdb
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\Selenium.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\Selenium.pdb
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.xml
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.pdb
